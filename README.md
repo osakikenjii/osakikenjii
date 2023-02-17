@@ -1,10 +1,9 @@
 ### Olá, Seja bem vindo, me chamo Victor Kenji👍
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0sakikenjii/) 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorkenjii/)
-
+</br></br>
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=osakikenjii&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osakikenjii&layout=compact&hide_border=true&title_color=e3be79&text_color=bd6169&bg_color=282c34)](https://github.com/osakikenjii)
-
 
 ### Tecnologias que já utilizei 
 <div Style="display: iline_block">
