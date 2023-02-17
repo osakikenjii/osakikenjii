@@ -1,11 +1,12 @@
-### Olá, seja bem vindo👍, me chamo Victor Kenji😀
+### Olá, Seja bem vindo, me chamo Victor Kenji👍
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0sakikenjii/) 
-[![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorkenjii/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorkenjii/)
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=osakikenjii&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osakikenjii&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=1C1C1C)](https://github.com/osakikenjii)
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=osakikenjii&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osakikenjii&layout=compact&hide_border=true&title_color=e3be79&text_color=bd6169&bg_color=282c34)](https://github.com/osakikenjii)
 
-### Tecnologias que já utilizei 
+
+### Tecnologias usadas 
 <div Style="display: iline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
