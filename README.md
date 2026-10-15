@@ -8,7 +8,7 @@
 
 &nbsp;
 
-<img src="assets/h-sobre.svg" width="100%" alt="Sobre mim" />
+<img src="assets/h-01-sobre.svg" width="100%" alt="Sobre mim" />
 
 Trabalho com suporte e infraestrutura de TI há mais de 3 anos, na RE9ti. Sou analista residente em escritórios de advocacia de grande porte em São Paulo, com atendimento direto a sócios e diretores e a responsabilidade de manter sistemas críticos funcionando.
 
@@ -18,85 +18,19 @@ Sou formado em Análise e Desenvolvimento de Sistemas e sigo desenvolvendo softw
 
 &nbsp;
 
-<img src="assets/h-atuacao.svg" width="100%" alt="O que eu faço" />
+<img src="assets/h-02-stack.svg" width="100%" alt="Stack" />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### `01 // segurança_de_redes`
-- Implantação e administração de Fortinet FortiGate e SonicWall (NGFW/UTM)
-- Regras de firewall LAN/WAN, NAT e segmentação por VLAN
-- VPN SSL/IPsec, failover e balanceamento de links
-
-</td>
-    <td width="50%" valign="top">
-
-### `02 // inspeção_e_resposta`
-- DPI (Deep Packet Inspection), inspeção de pacotes e inspeção SSL/TLS
-- IPS/IDS, controle de aplicações e filtragem de conteúdo web
-- Análise de logs e de incidentes, com triagem N1/N2 e causa raiz (RCA)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### `03 // cloud_microsoft`
-- Identidades e acessos com Entra ID (Azure AD)
-- Políticas de segurança e dispositivos no Intune (MDM/MAM)
-- Exchange Online, SharePoint e Security and Compliance
-- Windows Server on-premises
-
-</td>
-    <td width="50%" valign="top">
-
-### `04 // infra_e_redes`
-- Ativos Ubiquiti UniFi, MikroTik e Cisco
-- DHCP, DNS, NAT e VLANs
-- Manutenção de cabeamento estruturado
-
-</td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-
-### `05 // suporte_e_operação`
-- Atendimento N1 e N2 e suporte residente VIP
-- Diagnóstico de hardware e software, certificação digital, PJe e e-SAJ
-- Gestão de chamados, SLAs e treinamento de usuários
-
-</td>
-  </tr>
-</table>
+<img src="assets/stack.svg" width="100%" alt="netsec: Fortinet FortiGate, SonicWall, NGFW/UTM, DPI, inspeção de pacotes, IPS/IDS, inspeção SSL/TLS, filtragem de conteúdo, VPN SSL/IPsec, failover e load balancing, análise de incidentes. cloud: Microsoft Azure, Entra ID, Intune, Exchange Online, SharePoint, Microsoft 365, Windows Server. redes: Ubiquiti UniFi, MikroTik, Cisco, VLANs, DHCP, DNS, NAT. suporte: N1 e N2, suporte residente VIP, gestão de chamados, SLAs, certificação digital. dev freelance: HTML5, CSS3, JavaScript, Bootstrap, Java, C#, Spring, MySQL, Eclipse." />
 
 &nbsp;
 
-<img src="assets/h-stack.svg" width="100%" alt="Stack de segurança e infraestrutura" />
+<img src="assets/h-03-trajetoria.svg" width="100%" alt="Trajetória" />
 
-<img src="assets/fluxo-inspecao.svg" width="100%" alt="Fluxo conceitual. Inspeção de tráfego: LAN, regras LAN/WAN e NAT, DPI com aplicações e SSL/TLS, IPS/IDS, filtro web e WAN. Resposta a incidentes: detecção, triagem N1/N2, análise de logs e pacotes, mitigação e causa raiz (RCA)." />
-
-<img src="assets/stack-infra.svg" width="100%" alt="firewall: Fortinet FortiGate, SonicWall, NGFW/UTM, regras LAN/WAN, NAT, segmentação por VLAN. inspeção: DPI, inspeção de pacotes, inspeção SSL/TLS, IPS/IDS, controle de aplicações, filtragem de conteúdo web. vpn e links: VPN SSL, VPN IPsec, failover de links, load balancing. incidentes: análise de incidentes, análise de logs, triagem N1/N2, troubleshooting, RCA. protocolos: TCP/IP, UDP, TLS/SSL, IPsec, DNS, DHCP, 802.1Q. cloud: Microsoft Azure, Entra ID, Intune, Exchange Online, SharePoint, Microsoft 365, Security and Compliance, Windows Server. redes: Ubiquiti UniFi, MikroTik, Cisco, VLANs, cabeamento estruturado. suporte: N1 e N2, suporte residente VIP, gestão de chamados, SLAs, PJe e e-SAJ, certificação digital." />
+<img src="assets/trajetoria.svg" width="100%" alt="Todos na RE9ti: Estagiário em TI (fev/2023 a mai/2023), Técnico de Suporte (mai/2023 a fev/2024), Analista de Suporte Jr I (fev/2024 a fev/2026) e Analista de Suporte Jr III (fev/2026 até hoje)" />
 
 &nbsp;
 
-<img src="assets/h-dev.svg" width="100%" alt="Desenvolvimento" />
-
-Além da infraestrutura, desenvolvo software nas horas vagas e como freelancer. Estas são as tecnologias que já usei:
-
-<img src="assets/stack-dev.svg" width="100%" alt="web: HTML5, CSS3, JavaScript, Bootstrap. linguagens: Java, C#. frameworks: Spring. ferramentas: MySQL, Eclipse." />
-
-&nbsp;
-
-<img src="assets/h-trajetoria.svg" width="100%" alt="Trajetória" />
-
-Todos os cargos na RE9ti, a partir de fevereiro de 2023.
-
-<img src="assets/trajetoria.svg" width="100%" alt="Estagiário em TI (fev/2023 a mai/2023), Técnico de Suporte (mai/2023 a fev/2024), Analista de Suporte Jr I (fev/2024 a fev/2026) e Analista de Suporte Jr III (fev/2026 até hoje)" />
-
-&nbsp;
-
-<img src="assets/h-formacao.svg" width="100%" alt="Formação" />
+<img src="assets/h-04-formacao.svg" width="100%" alt="Formação" />
 
 - `2022 a 2024` Análise e Desenvolvimento de Sistemas, Universidade Mogi das Cruzes (UMC)
 - `2020 a 2022` Técnico em Informática, Senac Tatuapé
