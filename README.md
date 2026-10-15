@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Victor Kenji Osaki, Analista de Suporte e Infraestrutura de TI, N1/N2, NetSec, Azure e M365, dev freelancer" />
+<img src="assets/banner.svg" width="100%" alt="Victor Kenji Osaki, Analista de Suporte e Infraestrutura de TI, N1/N2, NetSec, DPI, análise de incidentes, Azure e M365, dev freelancer" />
 
 <a href="https://www.linkedin.com/in/victorkenjii/"><img src="assets/linkedin.svg" height="44" alt="LinkedIn" /></a>
 
@@ -12,7 +12,7 @@
 
 Trabalho com suporte e infraestrutura de TI há mais de 3 anos, na RE9ti. Sou analista residente em escritórios de advocacia de grande porte em São Paulo, com atendimento direto a sócios e diretores e a responsabilidade de manter sistemas críticos funcionando.
 
-Entrei como estagiário em 2023 e tive três promoções até o cargo atual, Analista de Suporte Jr III. Hoje meu dia a dia é firewall, rede e nuvem Microsoft.
+Entrei como estagiário em 2023 e tive três promoções até o cargo atual, Analista de Suporte Jr III. Hoje meu dia a dia é segurança de redes (firewall, DPI e inspeção de pacotes), análise de incidentes e nuvem Microsoft.
 
 Sou formado em Análise e Desenvolvimento de Sistemas e sigo desenvolvendo software nas horas vagas e como freelancer.
 
@@ -25,33 +25,43 @@ Sou formado em Análise e Desenvolvimento de Sistemas e sigo desenvolvendo softw
     <td width="50%" valign="top">
 
 ### `01 // segurança_de_redes`
-- Implantação e administração de Fortinet FortiGate e SonicWall
-- Políticas de acesso LAN/WAN, NAT e filtragem de conteúdo web
+- Implantação e administração de Fortinet FortiGate e SonicWall (NGFW/UTM)
+- Regras de firewall LAN/WAN, NAT e segmentação por VLAN
 - VPN SSL/IPsec, failover e balanceamento de links
 
 </td>
     <td width="50%" valign="top">
 
-### `02 // cloud_microsoft`
-- Identidades e acessos com Entra ID (Azure AD)
-- Políticas de segurança e dispositivos no Intune (MDM/MAM)
-- Exchange Online, SharePoint e Security and Compliance
-- Windows Server on-premises
+### `02 // inspeção_e_resposta`
+- DPI (Deep Packet Inspection), inspeção de pacotes e inspeção SSL/TLS
+- IPS/IDS, controle de aplicações e filtragem de conteúdo web
+- Análise de logs e de incidentes, com triagem N1/N2 e causa raiz (RCA)
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### `03 // infra_e_redes`
+### `03 // cloud_microsoft`
+- Identidades e acessos com Entra ID (Azure AD)
+- Políticas de segurança e dispositivos no Intune (MDM/MAM)
+- Exchange Online, SharePoint e Security and Compliance
+- Windows Server on-premises
+
+</td>
+    <td width="50%" valign="top">
+
+### `04 // infra_e_redes`
 - Ativos Ubiquiti UniFi, MikroTik e Cisco
 - DHCP, DNS, NAT e VLANs
 - Manutenção de cabeamento estruturado
 
 </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
 
-### `04 // suporte_e_operação`
+### `05 // suporte_e_operação`
 - Atendimento N1 e N2 e suporte residente VIP
 - Diagnóstico de hardware e software, certificação digital, PJe e e-SAJ
 - Gestão de chamados, SLAs e treinamento de usuários
@@ -62,9 +72,11 @@ Sou formado em Análise e Desenvolvimento de Sistemas e sigo desenvolvendo softw
 
 &nbsp;
 
-<img src="assets/h-stack.svg" width="100%" alt="Stack de infraestrutura" />
+<img src="assets/h-stack.svg" width="100%" alt="Stack de segurança e infraestrutura" />
 
-<img src="assets/stack-infra.svg" width="100%" alt="netsec: Fortinet FortiGate, SonicWall, VPN SSL/IPsec, failover de links, load balancing, filtragem de conteúdo. cloud: Microsoft Azure, Entra ID, Intune, Exchange Online, SharePoint, Microsoft 365, Security and Compliance, Windows Server. redes: Ubiquiti UniFi, MikroTik, Cisco, DHCP, DNS, NAT, VLANs, cabeamento estruturado. suporte: N1 e N2, suporte residente VIP, gestão de chamados, SLAs, PJe e e-SAJ, certificação digital." />
+<img src="assets/fluxo-inspecao.svg" width="100%" alt="Fluxo conceitual. Inspeção de tráfego: LAN, regras LAN/WAN e NAT, DPI com aplicações e SSL/TLS, IPS/IDS, filtro web e WAN. Resposta a incidentes: detecção, triagem N1/N2, análise de logs e pacotes, mitigação e causa raiz (RCA)." />
+
+<img src="assets/stack-infra.svg" width="100%" alt="firewall: Fortinet FortiGate, SonicWall, NGFW/UTM, regras LAN/WAN, NAT, segmentação por VLAN. inspeção: DPI, inspeção de pacotes, inspeção SSL/TLS, IPS/IDS, controle de aplicações, filtragem de conteúdo web. vpn e links: VPN SSL, VPN IPsec, failover de links, load balancing. incidentes: análise de incidentes, análise de logs, triagem N1/N2, troubleshooting, RCA. protocolos: TCP/IP, UDP, TLS/SSL, IPsec, DNS, DHCP, 802.1Q. cloud: Microsoft Azure, Entra ID, Intune, Exchange Online, SharePoint, Microsoft 365, Security and Compliance, Windows Server. redes: Ubiquiti UniFi, MikroTik, Cisco, VLANs, cabeamento estruturado. suporte: N1 e N2, suporte residente VIP, gestão de chamados, SLAs, PJe e e-SAJ, certificação digital." />
 
 &nbsp;
 
