@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Victor%20Kenji%20Osaki&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Suporte%20%26%20Infraestrutura%20de%20TI&descSize=20&descAlignY=60" alt="Victor Kenji Osaki - Suporte e Infraestrutura de TI" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Victor%20Kenji%20Osaki&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Suporte%20e%20Infraestrutura%20de%20TI&descSize=20&descAlignY=60" alt="Victor Kenji Osaki, Suporte e Infraestrutura de TI" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=40&lines=Analista+de+Suporte+N1+%2F+N2;Seguran%C3%A7a+de+Redes+%C2%B7+Fortinet+%C2%B7+SonicWall;Microsoft+Azure+%C2%B7+Entra+ID+%C2%B7+Intune+%C2%B7+M365" alt="Analista de Suporte N1/N2 | NetSec & Cloud" />
 
